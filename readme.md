@@ -15,6 +15,15 @@ Esse é um projetinho simples de **Amigo Secreto** feito em HTML, CSS e JavaScri
 - Mostrar a lista de amigos.
 - Sortear um nome aleatório para ser o "amigo secreto".
 
+## Tecnologias utilizadas
+
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- **HTML**: Para estruturar o conteúdo da página.
+- **CSS**: Para estilizar a página e tornar o layout visualmente agradável.
+- **JavaScript**: Para adicionar interatividade e permitir o funcionamento do sorteio e da lista de amigos.
+- **Markdown**: Para criar este README de forma simples e legível.
+
 ## Como usar:
 
 1. Abra o arquivo `index.html` no seu navegador.
