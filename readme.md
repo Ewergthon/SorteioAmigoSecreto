@@ -25,3 +25,4 @@ Esse é um projetinho simples de **Amigo Secreto** feito em HTML, CSS e JavaScri
 ## Como rodar o projeto:
 
 1. Clone o repositório:
+2. Ou você pode acessar através do link: https://sorteio-amigo-secreto-lyart.vercel.app/
